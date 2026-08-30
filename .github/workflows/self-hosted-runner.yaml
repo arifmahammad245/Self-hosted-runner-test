@@ -1,4 +1,4 @@
-name: Self Hosted Runner Demo
+name: Self Hosted Runner
 on: workflow_dispatch
 
 jobs:
